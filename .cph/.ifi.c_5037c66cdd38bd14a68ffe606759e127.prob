@@ -1,0 +1,1 @@
+{"name":"Local: ifi","url":"d:\\Arafat\\Programming\\CSE Fundamental\\Final Exam\\ifi.c","tests":[{"id":1683981563703,"input":"5\n10 20\n30 20\n15 16\n100 20\n50 45","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Arafat\\Programming\\CSE Fundamental\\Final Exam\\ifi.c","group":"local","local":true}
